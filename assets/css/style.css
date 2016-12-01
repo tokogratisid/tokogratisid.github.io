@@ -1,0 +1,148 @@
+body {
+	background: url("../img/bg1.jpg");
+}
+
+#wrapper-header {
+	background-color:none;
+	height: 100px;
+	margin: 5px auto;
+	width:1215px;
+}
+
+#header {
+	background-color:none;
+	height: 100px;
+	float: left;
+	width:1038px;
+	border: 1px solid #633;
+	border-radius:5px;
+}
+
+#login {
+	color=#633;
+	background-color:none;
+	height: 100px;
+	float: left;
+	margin-left:5px;
+	width:168px;
+	border: 1px solid #633;
+	border-radius:5px;
+}
+
+input[type=text] {
+  border: 1px dotted #999;
+  border-radius: 5px;
+
+  -webkit-appearance: none;
+}
+
+#example1 { width: 100%; }
+
+input[type=password] {
+  border: 1px dotted #999;
+  border-radius: 5px;
+  width=10%;
+
+  -webkit-appearance: none;
+}
+
+input[type=submit] {
+  border: 1px dotted #999;
+  border-radius: 5px;
+
+  -webkit-appearance: none;
+}
+#menu {
+	background-color: none;
+	border: 1px solid #633;
+	border-radius:5px;
+	height: 26px;
+	margin: 5px auto;
+	width:1215px;
+}
+
+.nyamping {
+	background-color: none;
+	height: 26px;
+	float: left;
+	width:100%;
+	border-radius:5px;
+}
+
+.nyamping li {
+	display		: inline;
+}
+
+.nyamping li a {
+	color			: #000;
+	text-align:justify;
+	list-style: none;
+	padding:0;
+	font-size		: 18px;
+	font-weight		: 50px;
+	margin-right	: 100px;
+	font-family:"Courier New", Courier, monospace;
+	color: #633;
+	margin-left		: 70px;
+	text-decoration	: none;
+}
+
+.nyamping li a:hover {
+	color:#CCC;
+}
+
+#wrapper-main {
+	background-color: none;
+	height: 445px;
+	margin: 5px auto;
+	width:1215px;
+}
+
+
+#content {
+	background-color: none;
+	height: 450px;
+	margin-left:5px;
+	width:1041px;
+	float:left;
+}
+
+#content-posisi {
+	background-color: none;
+	border: 1px solid #633;
+	height: 25px;
+	width:1041px;
+	border-radius:5px;
+	border: 1px solid #633;
+	float:left;
+}
+
+#content-utama {
+	background-color: none;
+	margin:5px auto;
+	height: 418px;
+	width:1041px;
+	border-radius:5px;
+	border: 1px solid #633;
+	float:left;
+}
+
+#sidebar {
+	background-color: none;
+	height: 450px;
+	width:165px ;
+	border: 1px solid #633;
+	border-radius:5px;
+	float:left;
+}
+
+
+#footer {
+	background-color:none;
+	height: 50px;
+	margin: 12px auto;
+	width:1214px;
+	border-radius:5px;
+	border: 1px solid #633;
+	font-family:"Courier New", Courier, monospace;
+}
